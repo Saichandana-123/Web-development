@@ -37,5 +37,7 @@ Through this repository, I aim to:
 I’m always open to feedback, collaboration, or simply connecting with fellow developers:
 
 GitHub: Saichandana-123
+
 LinkedIn: https://www.linkedin.com/in/saichandana-tumma-6a8a08285/
+
 Email: b23ee1077@iitj.ac.in
