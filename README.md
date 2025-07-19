@@ -33,6 +33,14 @@ Through this repository, I aim to:
 - Explore the basics of backend development (Node.js, Express, databases, etc.).
 
 ---
+## 📚 Source of Learning
+
+The HTML and CSS content in this repository is based on tutorials by [SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=8735s).
+
+Original questions, exercises, and solutions are provided by the author on their [GitHub repository](https://github.com/SuperSimpleDev/html-css-course/tree/main).
+
+This repo is for personal learning and practice purposes.
+
 🤝 Let’s Connect!
 I’m always open to feedback, collaboration, or simply connecting with fellow developers:
 
