@@ -1,4 +1,3 @@
-# Web-development
 # 🌐 Web Development Practice 
 
 Welcome to my repository documenting my journey in **Full-stack web development**. 
