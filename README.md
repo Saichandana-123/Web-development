@@ -38,6 +38,6 @@ I’m always open to feedback, collaboration, or simply connecting with fellow d
 
 Visit my [GitHub profile](https://github.com/Saichandana-123)
 
-[LinkedIn](https://www.linkedin.com/in/saichandana-tumma-6a8a08285/)
+This is my [LinkedIn Profile](https://www.linkedin.com/in/saichandana-tumma-6a8a08285/)
 
 Email: b23ee1077@iitj.ac.in
