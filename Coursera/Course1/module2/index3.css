@@ -1,0 +1,22 @@
+#middle {
+ display:block;
+}
+p{
+  text-align: center;
+}
+.parent{
+  border: 4px solid red;
+}
+.child{
+  width : 50%;
+  padding: 20px;
+  border: 4px solid green;
+  margin:auto;
+}
+.chilled{
+  display:block;
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+  float : right;
+}

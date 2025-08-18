@@ -1,0 +1,28 @@
+p{
+  color: blue;
+}
+/*ID selector ki manam # varthaam*/
+#latest{
+  background-color:purple;
+}
+/*Class ki dot varthaam*/
+.navigation{
+  margin:2px;
+}
+p.introduction{
+  margin: 2px;
+}
+/*Below This will not be apply to h1 element text Archives */
+#blog h1{
+  color:blue;
+}
+/*Multiple descendants can also be selected ex: This is to select all h1 elements that are descendants of div elements which are descendants of blog element*/
+#blog div h1{
+  color: blue;
+}
+#log > h1 {
+  color: blue;
+}
+/* The structure of the child selector is a CSS selector followed by the child combinator symbol > followed by another CSS selector.
+
+Note that this will not go beyond a single depth level. Therefore, the CSS rule will not be applied to the h1 element containing the text Today's Weather.*/
